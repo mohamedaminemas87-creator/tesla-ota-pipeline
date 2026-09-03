@@ -1,0 +1,766 @@
+function_id,update_id,update_name,release_date,function_name,domain_primary,function_type,standalone_or_coord,classified_by
+TL_V010_F001,TL_V010,2019.40.50.1,"December 24, 2019",Smart Summon (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V010_F002,TL_V010,2019.40.50.1,"December 24, 2019",Navigate on Autopilot (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V010_F003,TL_V010,2019.40.50.1,"December 24, 2019",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V010_F004,TL_V010,2019.40.50.1,"December 24, 2019",Adjacent Lane Speeds,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V010_F005,TL_V010,2019.40.50.1,"December 24, 2019",Voice Commands,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V010_F006,TL_V010,2019.40.50.1,"December 24, 2019",Phone Improvements,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V010_F007,TL_V010,2019.40.50.1,"December 24, 2019",Camp Mode,Body,NEW,STANDALONE,BERT_AUTO
+TL_V010_F008,TL_V010,2019.40.50.1,"December 24, 2019",Tesla Theater,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V010_F009,TL_V010,2019.40.50.1,"December 24, 2019",Stardew Valley,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V010_F010,TL_V010,2019.40.50.1,"December 24, 2019",Backgammon,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V010_F011,TL_V010,2019.40.50.1,"December 24, 2019",Voice Keyboard,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V010_F012,TL_V010,2019.40.50.1,"December 24, 2019",TRAX v0.1,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V010_F013,TL_V010,2019.40.50.1,"December 24, 2019",Adaptive Suspension Damping,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V010_F014,TL_V010,2019.40.50.1,"December 24, 2019",Save Dashcam Clips on Honk,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V010_F015,TL_V010,2019.40.50.1,"December 24, 2019",Driver Profiles,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V010_F016,TL_V010,2019.40.50.1,"December 24, 2019",New Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V011_F001,TL_V011,2020.4,"January 24, 2020",Dou DiZhu,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F002,TL_V011,2020.4,"January 24, 2020",Happy Mahjong,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F003,TL_V011,2020.4,"January 24, 2020",Shengji,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F004,TL_V011,2020.4,"January 24, 2020",Tesla Theater,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F005,TL_V011,2020.4,"January 24, 2020",Air Quality Index and Weather,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F006,TL_V011,2020.4,"January 24, 2020",Maps Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V011_F007,TL_V011,2020.4,"January 24, 2020",QR Code for Tesla Service,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F008,TL_V011,2020.4,"January 24, 2020",Additional Vehicle Information,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F009,TL_V011,2020.4,"January 24, 2020",Smart Summon (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V011_F010,TL_V011,2020.4,"January 24, 2020",Navigate on Autopilot (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V011_F011,TL_V011,2020.4,"January 24, 2020",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V011_F012,TL_V011,2020.4,"January 24, 2020",Adjacent Lane Speeds,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V011_F013,TL_V011,2020.4,"January 24, 2020",Voice Commands,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V011_F014,TL_V011,2020.4,"January 24, 2020",Phone Improvements,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V011_F015,TL_V011,2020.4,"January 24, 2020",Camp Mode,Body,NEW,STANDALONE,BERT_AUTO
+TL_V011_F016,TL_V011,2020.4,"January 24, 2020",Stardew Valley,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F017,TL_V011,2020.4,"January 24, 2020",Backgammon,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F018,TL_V011,2020.4,"January 24, 2020",Voice Keyboard,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V011_F019,TL_V011,2020.4,"January 24, 2020",TRAX v0.1,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V011_F020,TL_V011,2020.4,"January 24, 2020",Adaptive Suspension Damping,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V011_F021,TL_V011,2020.4,"January 24, 2020",Save Dashcam Clips on Honk,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V011_F022,TL_V011,2020.4,"January 24, 2020",Driver Profiles,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V011_F023,TL_V011,2020.4,"January 24, 2020",New Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V012_F001,TL_V012,2020.8.1,"March 5, 2020",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V012_F002,TL_V012,2020.8.1,"March 5, 2020",Track Mode Improvements,Driving Automation,MODIFIED,STANDALONE,BERT_AUTO
+TL_V012_F003,TL_V012,2020.8.1,"March 5, 2020",Third-Party Charging Stations,Powertrain,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V012_F004,TL_V012,2020.8.1,"March 5, 2020",Bluetooth Improvement,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V012_F005,TL_V012,2020.8.1,"March 5, 2020",Regenerative Braking,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V012_F006,TL_V012,2020.8.1,"March 5, 2020",Improved Voice Command Reliability,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V012_F007,TL_V012,2020.8.1,"March 5, 2020",Additional Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V012_F008,TL_V012,2020.8.1,"March 5, 2020",Additional Owner’s Manual Languages,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V013_F001,TL_V013,2020.12.5,"April 3, 2020",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V013_F002,TL_V013,2020.12.5,"April 3, 2020",Dashcam Viewer,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V013_F003,TL_V013,2020.12.5,"April 3, 2020",Performance and Launch Mode Improvements,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V013_F004,TL_V013,2020.12.5,"April 3, 2020",Out of Order Supercharger Stalls,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V014_F001,TL_V014,2020.16.2,"May 12, 2020",Navigate on Autopilot (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V014_F002,TL_V014,2020.16.2,"May 12, 2020",Tesla Toybox,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V014_F003,TL_V014,2020.16.2,"May 12, 2020",Nearby Charging Sites,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V014_F004,TL_V014,2020.16.2,"May 12, 2020",Maps Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V014_F005,TL_V014,2020.16.2,"May 12, 2020",Dashcam Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V014_F006,TL_V014,2020.16.2,"May 12, 2020",Backgammon Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V015_F001,TL_V015,2020.20.13,"June 11, 2020",Traffic Light and Stop Sign Control (Beta),Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V015_F002,TL_V015,2020.20.13,"June 11, 2020",GPS Update,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V015_F003,TL_V015,2020.20.13,"June 11, 2020",Fallout Shelter,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V015_F004,TL_V015,2020.20.13,"June 11, 2020",Theater Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V015_F005,TL_V015,2020.20.13,"June 11, 2020",TRAX Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V016_F001,TL_V016,2020.24.6.4,"July 3, 2020",Sirius XM Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V016_F002,TL_V016,2020.24.6.4,"July 3, 2020",Traffic Light and Stop Sign Control (Beta),Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V016_F003,TL_V016,2020.24.6.4,"July 3, 2020",Range Display,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V016_F004,TL_V016,2020.24.6.4,"July 3, 2020",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V016_F005,TL_V016,2020.24.6.4,"July 3, 2020",Backup Camera Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V016_F006,TL_V016,2020.24.6.4,"July 3, 2020",Supercharger Improvements,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V016_F007,TL_V016,2020.24.6.4,"July 3, 2020",Dashcam Viewer Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V016_F008,TL_V016,2020.24.6.4,"July 3, 2020",Pay Per Use Supercharging,Powertrain,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V016_F009,TL_V016,2020.24.6.4,"July 3, 2020",TuneIn Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V016_F010,TL_V016,2020.24.6.4,"July 3, 2020",Walk-Away Door Lock Improvements,Body,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V016_F011,TL_V016,2020.24.6.4,"July 3, 2020",On-Route Battery Warmup,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V016_F012,TL_V016,2020.24.6.4,"July 3, 2020",New Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V016_F013,TL_V016,2020.24.6.4,"July 3, 2020",Cabin Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V017_F001,TL_V017,2020.28.1,"July 10, 2020",New Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V017_F002,TL_V017,2020.28.1,"July 10, 2020",Suspension Improvements,Chassis,MODIFIED,STANDALONE,BERT_AUTO
+TL_V017_F003,TL_V017,2020.28.1,"July 10, 2020",Sirius XM Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V017_F004,TL_V017,2020.28.1,"July 10, 2020",Traffic Light and Stop Sign Control (Beta),Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V017_F005,TL_V017,2020.28.1,"July 10, 2020",Supercharger Improvements,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V017_F006,TL_V017,2020.28.1,"July 10, 2020",Range Display,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V017_F007,TL_V017,2020.28.1,"July 10, 2020",Passenger Face Vent,Body,NEW,STANDALONE,BERT_AUTO
+TL_V017_F008,TL_V017,2020.28.1,"July 10, 2020",Tesla Arcade,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V018_F001,TL_V018,2020.32.1,"August 8, 2020",Tesla Powerwall Coordination,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V018_F002,TL_V018,2020.32.1,"August 8, 2020",Sirius XM Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V018_F003,TL_V018,2020.32.1,"August 8, 2020",Dynamic Brake Lights,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V018_F004,TL_V018,2020.32.1,"August 8, 2020",Car Left Open Notifications,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V018_F005,TL_V018,2020.32.1,"August 8, 2020",Close Windows on Lock,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V018_F006,TL_V018,2020.32.1,"August 8, 2020",Supercharger Improvements,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V018_F007,TL_V018,2020.32.1,"August 8, 2020",Suspension Improvements,Chassis,MODIFIED,STANDALONE,BERT_AUTO
+TL_V018_F008,TL_V018,2020.32.1,"August 8, 2020",Notifications History,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V018_F009,TL_V018,2020.32.1,"August 8, 2020",Third-Party Charging Stations,Powertrain,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V019_F001,TL_V019,2020.36.10,"September 10, 2020",Traffic Light and Stop Sign Control (Beta),Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V019_F002,TL_V019,2020.36.10,"September 10, 2020",Navigate on Autopilot (Beta) - Exit Passing Lane,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V019_F003,TL_V019,2020.36.10,"September 10, 2020",Autosteer Stop Sign and Stop Light Warning,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V019_F004,TL_V019,2020.36.10,"September 10, 2020",Green Traffic Light Chime,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V019_F005,TL_V019,2020.36.10,"September 10, 2020",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V019_F006,TL_V019,2020.36.10,"September 10, 2020",Speed Assist Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V019_F007,TL_V019,2020.36.10,"September 10, 2020",Suspension Instrument Panel Display,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V019_F008,TL_V019,2020.36.10,"September 10, 2020",Cruise Set Speed Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V019_F009,TL_V019,2020.36.10,"September 10, 2020",Pedestrian Warning,Body,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V020_F001,TL_V020,2020.40.8.12,"October 31, 2020",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V020_F002,TL_V020,2020.40.8.12,"October 31, 2020",Vehicle Information,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V020_F003,TL_V020,2020.40.8.12,"October 31, 2020",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V020_F004,TL_V020,2020.40.8.12,"October 31, 2020",Speed Assist Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V020_F005,TL_V020,2020.40.8.12,"October 31, 2020",Mobile App - Vent Windows,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V020_F006,TL_V020,2020.40.8.12,"October 31, 2020",Glovebox PIN,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V020_F007,TL_V020,2020.40.8.12,"October 31, 2020",Charge Port Inlet Heater,Powertrain,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V020_F008,TL_V020,2020.40.8.12,"October 31, 2020",Priority Bluetooth Device,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V021_F001,TL_V021,2020.44.15.3,"November 25, 2020",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V021_F002,TL_V021,2020.44.15.3,"November 25, 2020",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V021_F003,TL_V021,2020.44.15.3,"November 25, 2020",Vehicle Information,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V021_F004,TL_V021,2020.44.15.3,"November 25, 2020",Autopilot Set Speed,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V021_F005,TL_V021,2020.44.15.3,"November 25, 2020",Spotify Improvements,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V021_F006,TL_V021,2020.44.15.3,"November 25, 2020",Media Search Improvements,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V022_F001,TL_V022,2020.48.37.8,"October 13, 2021",Vehicle Information,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V022_F002,TL_V022,2020.48.37.8,"October 13, 2021",Remain Connected to Wi-Fi in Drive,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V022_F003,TL_V022,2020.48.37.8,"October 13, 2021",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V023_F001,TL_V023,2021.4.18.12,"July 10, 2021",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V023_F002,TL_V023,2021.4.18.12,"July 10, 2021",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V023_F003,TL_V023,2021.4.18.12,"July 10, 2021",Cabin Camera Updates,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V024_F001,TL_V024,2021.12.25.15,"August 15, 2021",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V024_F002,TL_V024,2021.12.25.15,"August 15, 2021",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V024_F003,TL_V024,2021.12.25.15,"August 15, 2021",Cabin Camera Updates,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V025_F001,TL_V025,2021.24.28,"February 16, 2022",Minor Cold Weather Improvements and Bug Fixes,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V025_F002,TL_V025,2021.24.28,"February 16, 2022",New Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V025_F003,TL_V025,2021.24.28,"February 16, 2022",Remain Connected to Wi-Fi in Drive,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V025_F004,TL_V025,2021.24.28,"February 16, 2022",Dashcam Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V026_F001,TL_V026,2021.32.25,"October 11, 2021",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V026_F002,TL_V026,2021.32.25,"October 11, 2021",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V026_F003,TL_V026,2021.32.25,"October 11, 2021",Cabin Camera Updates,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V027_F001,TL_V027,2021.36.8.10,"December 11, 2021",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V027_F002,TL_V027,2021.36.8.10,"December 11, 2021",FSD v10.6.1 Release Notes,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V027_F003,TL_V027,2021.36.8.10,"December 11, 2021",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V027_F004,TL_V027,2021.36.8.10,"December 11, 2021",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V027_F005,TL_V027,2021.36.8.10,"December 11, 2021",Cabin Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V027_F006,TL_V027,2021.36.8.10,"December 11, 2021",Sentry Mode Live Camera Access,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V028_F001,TL_V028,2021.40.6,"November 20, 2021",Add Stop,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V028_F002,TL_V028,2021.40.6,"November 20, 2021",TIDAL,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V028_F003,TL_V028,2021.40.6,"November 20, 2021",Active Road Noise Reduction,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V028_F004,TL_V028,2021.40.6,"November 20, 2021",Cold Weather Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V028_F005,TL_V028,2021.40.6,"November 20, 2021",Rear Display Improvements,Driving Automation,MODIFIED,STANDALONE,BERT_AUTO
+TL_V028_F006,TL_V028,2021.40.6,"November 20, 2021",New Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V028_F007,TL_V028,2021.40.6,"November 20, 2021",Traffic Aware Cruise Control Chime,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V028_F008,TL_V028,2021.40.6,"November 20, 2021",Range Display,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V028_F009,TL_V028,2021.40.6,"November 20, 2021",Navigation Language Selection,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V028_F010,TL_V028,2021.40.6,"November 20, 2021",Alternative Navigation Routes,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V028_F011,TL_V028,2021.40.6,"November 20, 2021",Side Repeater Cameras,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V028_F012,TL_V028,2021.40.6,"November 20, 2021",Additional Information,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V029_F001,TL_V029,2021.44.30.21,"February 18, 2022",Scalable Vehicle Sizes,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V029_F002,TL_V029,2021.44.30.21,"February 18, 2022",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V029_F003,TL_V029,2021.44.30.21,"February 18, 2022",FSD Beta v10.10.2 Release Notes,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V029_F004,TL_V029,2021.44.30.21,"February 18, 2022",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V029_F005,TL_V029,2021.44.30.21,"February 18, 2022",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V029_F006,TL_V029,2021.44.30.21,"February 18, 2022",Cabin Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V030_F001,TL_V030,2022.2.1,"January 28, 2022",Car Colorizer,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V030_F002,TL_V030,2022.2.1,"January 28, 2022",Windshield Wiper Defrost,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V030_F003,TL_V030,2022.2.1,"January 28, 2022",Save Dashcam Clips,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V030_F004,TL_V030,2022.2.1,"January 28, 2022",Nearby Superchargers,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V030_F005,TL_V030,2022.2.1,"January 28, 2022",TeslaMic and KTV,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V030_F006,TL_V030,2022.2.1,"January 28, 2022",Traffic Along Route,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V030_F007,TL_V030,2022.2.1,"January 28, 2022",NetEase Cloud Music,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V030_F008,TL_V030,2022.2.1,"January 28, 2022",Bilibili,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V031_F001,TL_V031,2022.4.5.21,"April 3, 2022",FSD Beta New Markets,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V031_F002,TL_V031,2022.4.5.21,"April 3, 2022",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V031_F003,TL_V031,2022.4.5.21,"April 3, 2022",FSD Beta v10.11.2 Release Notes,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V031_F004,TL_V031,2022.4.5.21,"April 3, 2022",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V031_F005,TL_V031,2022.4.5.21,"April 3, 2022",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V031_F006,TL_V031,2022.4.5.21,"April 3, 2022",Cabin Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V031_F007,TL_V031,2022.4.5.21,"April 3, 2022",Boombox,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V032_F001,TL_V032,2022.8.10.17,"February 13, 2024",Over-the-Air Recall: Telltale Text Size,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V032_F002,TL_V032,2022.8.10.17,"February 13, 2024",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V033_F001,TL_V033,2022.12.3.20,"May 27, 2022",Updated Visualizations,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V033_F002,TL_V033,2022.12.3.20,"May 27, 2022",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F003,TL_V033,2022.12.3.20,"May 27, 2022",FSD Beta v10.12.2 Release Notes,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F004,TL_V033,2022.12.3.20,"May 27, 2022",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V033_F005,TL_V033,2022.12.3.20,"May 27, 2022",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F006,TL_V033,2022.12.3.20,"May 27, 2022",Cabin Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F007,TL_V033,2022.12.3.20,"May 27, 2022",Autopilot Maximum Speed,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F008,TL_V033,2022.12.3.20,"May 27, 2022",Additional Bottom Bar Customization,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F009,TL_V033,2022.12.3.20,"May 27, 2022",Child Lock,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V033_F010,TL_V033,2022.12.3.20,"May 27, 2022",Additional Mobile App Controls,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V033_F011,TL_V033,2022.12.3.20,"May 27, 2022",New Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V033_F012,TL_V033,2022.12.3.20,"May 27, 2022",Range Display,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F013,TL_V033,2022.12.3.20,"May 27, 2022",Disney+,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V033_F014,TL_V033,2022.12.3.20,"May 27, 2022",Charging Time Estimation,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F015,TL_V033,2022.12.3.20,"May 27, 2022",Rear Display Improvements,Driving Automation,MODIFIED,STANDALONE,BERT_AUTO
+TL_V033_F016,TL_V033,2022.12.3.20,"May 27, 2022",Browser Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V033_F017,TL_V033,2022.12.3.20,"May 27, 2022",Compass / Always North,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V033_F018,TL_V033,2022.12.3.20,"May 27, 2022",Superchargers List,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V033_F019,TL_V033,2022.12.3.20,"May 27, 2022",Updated Service Mode,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V033_F020,TL_V033,2022.12.3.20,"May 27, 2022",Vehicle Preconditioning,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V033_F021,TL_V033,2022.12.3.20,"May 27, 2022",Active Phone Calls,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V033_F022,TL_V033,2022.12.3.20,"May 27, 2022",Autopilot Speed Indicator,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V033_F023,TL_V033,2022.12.3.20,"May 27, 2022",Cloud Profiles,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V034_F001,TL_V034,2022.16.3.10,"August 21, 2022",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V034_F002,TL_V034,2022.16.3.10,"August 21, 2022",FSD Beta v10.69 Release Notes,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V034_F003,TL_V034,2022.16.3.10,"August 21, 2022",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V034_F004,TL_V034,2022.16.3.10,"August 21, 2022",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V034_F005,TL_V034,2022.16.3.10,"August 21, 2022",Cabin Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V034_F006,TL_V034,2022.16.3.10,"August 21, 2022",Autopilot Maximum Speed,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V034_F007,TL_V034,2022.16.3.10,"August 21, 2022",Driver Profiles,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V034_F008,TL_V034,2022.16.3.10,"August 21, 2022",Navigation Energy Prediction,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V034_F009,TL_V034,2022.16.3.10,"August 21, 2022",Regenerative Braking,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V034_F010,TL_V034,2022.16.3.10,"August 21, 2022",Powered Trunk,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V034_F011,TL_V034,2022.16.3.10,"August 21, 2022",Automatic Supercharger Rerouting,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V034_F012,TL_V034,2022.16.3.10,"August 21, 2022",Regeneration / Acceleration Line,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V034_F013,TL_V034,2022.16.3.10,"August 21, 2022",Heater & Low Voltage Battery,Powertrain,NEW,STANDALONE,BERT_AUTO
+TL_V035_F001,TL_V035,2022.20.19,"October 21, 2022",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V035_F002,TL_V035,2022.20.19,"October 21, 2022",FSD Beta v10.69.2.4 Release Notes,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V035_F003,TL_V035,2022.20.19,"October 21, 2022",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V035_F004,TL_V035,2022.20.19,"October 21, 2022",Cabin Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V035_F005,TL_V035,2022.20.19,"October 21, 2022",Seat Belt System Enhancement,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V035_F006,TL_V035,2022.20.19,"October 21, 2022",Tire Configuration,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V035_F007,TL_V035,2022.20.19,"October 21, 2022",Tesla Adaptive Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V035_F008,TL_V035,2022.20.19,"October 21, 2022",Car Colorizer,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V035_F009,TL_V035,2022.20.19,"October 21, 2022",Improvements to Energy Prediction,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V035_F010,TL_V035,2022.20.19,"October 21, 2022",Automatic Supercharger Rerouting,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V035_F011,TL_V035,2022.20.19,"October 21, 2022",Bluetooth Menu,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V035_F012,TL_V035,2022.20.19,"October 21, 2022",HomeLink Buttons,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V035_F013,TL_V035,2022.20.19,"October 21, 2022",Battery at Arrival,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V035_F014,TL_V035,2022.20.19,"October 21, 2022",Regeneration / Acceleration Line,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V035_F015,TL_V035,2022.20.19,"October 21, 2022",Heater & Low Voltage Battery,Powertrain,NEW,STANDALONE,BERT_AUTO
+TL_V036_F001,TL_V036,2022.24.6,"August 29, 2022",Tesla Vision Update,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V036_F002,TL_V036,2022.24.6,"August 29, 2022",Blind Spot Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V036_F003,TL_V036,2022.24.6,"August 29, 2022",Tesla Profiles,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V036_F004,TL_V036,2022.24.6,"August 29, 2022",Traffic Along Route,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V036_F005,TL_V036,2022.24.6,"August 29, 2022",Disable Sentry Sounds,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V036_F006,TL_V036,2022.24.6,"August 29, 2022",Driver Profiles,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V036_F007,TL_V036,2022.24.6,"August 29, 2022",Auto Rear Climate Controls,Chassis,NEW,STANDALONE,BERT_AUTO
+TL_V036_F008,TL_V036,2022.24.6,"August 29, 2022",Additional Bottom Bar Customization,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V036_F009,TL_V036,2022.24.6,"August 29, 2022",Regenerative Braking,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V036_F010,TL_V036,2022.24.6,"August 29, 2022",GPS Directions,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V036_F011,TL_V036,2022.24.6,"August 29, 2022",Tire Pressure,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V036_F012,TL_V036,2022.24.6,"August 29, 2022",Uninstall Games,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V036_F013,TL_V036,2022.24.6,"August 29, 2022",Turn Signals,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F001,TL_V037,2022.28.2,"September 14, 2022",Alternate Routes,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V037_F002,TL_V037,2022.28.2,"September 14, 2022",Theater Mode,Body,MODIFIED,STANDALONE,BERT_AUTO
+TL_V037_F003,TL_V037,2022.28.2,"September 14, 2022",Status Bar,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V037_F004,TL_V037,2022.28.2,"September 14, 2022",Sonic,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V037_F005,TL_V037,2022.28.2,"September 14, 2022",Cat Quest,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V037_F006,TL_V037,2022.28.2,"September 14, 2022",Cuphead,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F007,TL_V037,2022.28.2,"September 14, 2022",Portuguese Voice Navigation,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V037_F008,TL_V037,2022.28.2,"September 14, 2022",Smart Summon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F009,TL_V037,2022.28.2,"September 14, 2022",Radio Icon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F010,TL_V037,2022.28.2,"September 14, 2022",HomeLink Buttons,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F011,TL_V037,2022.28.2,"September 14, 2022",Safety Menu Reorganized,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F012,TL_V037,2022.28.2,"September 14, 2022",Suggested Destinations,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V037_F013,TL_V037,2022.28.2,"September 14, 2022",Dark Mode,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F014,TL_V037,2022.28.2,"September 14, 2022",Tesla Theater Status Bar,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V037_F015,TL_V037,2022.28.2,"September 14, 2022",Phone Icon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F016,TL_V037,2022.28.2,"September 14, 2022",Vehicle Alerts,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V037_F017,TL_V037,2022.28.2,"September 14, 2022",Battery Calibration,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F001,TL_V038,2022.36.20,"November 18, 2022",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F002,TL_V038,2022.36.20,"November 18, 2022",FSD Beta v10.69.3.1 Release Notes,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F003,TL_V038,2022.36.20,"November 18, 2022",Energy App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F004,TL_V038,2022.36.20,"November 18, 2022",Alternate Routes,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V038_F005,TL_V038,2022.36.20,"November 18, 2022",Cabin Overheat Protection,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F006,TL_V038,2022.36.20,"November 18, 2022",Blind Spot Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F007,TL_V038,2022.36.20,"November 18, 2022",Tesla App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F008,TL_V038,2022.36.20,"November 18, 2022",Theater Mode,Body,MODIFIED,STANDALONE,BERT_AUTO
+TL_V038_F009,TL_V038,2022.36.20,"November 18, 2022",Tesla Profiles,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F010,TL_V038,2022.36.20,"November 18, 2022",Status Bar,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V038_F011,TL_V038,2022.36.20,"November 18, 2022",Driver Profiles,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V038_F012,TL_V038,2022.36.20,"November 18, 2022",Traffic Along Route,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V038_F013,TL_V038,2022.36.20,"November 18, 2022",Supercharger Additional Details,Powertrain,NEW,STANDALONE,BERT_AUTO
+TL_V038_F014,TL_V038,2022.36.20,"November 18, 2022",Car Left Open Notifications,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F015,TL_V038,2022.36.20,"November 18, 2022",Caraoke,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V038_F016,TL_V038,2022.36.20,"November 18, 2022",New Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V038_F017,TL_V038,2022.36.20,"November 18, 2022",Battery Heating Performance,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V038_F018,TL_V038,2022.36.20,"November 18, 2022",Disable Sentry Sounds,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F019,TL_V038,2022.36.20,"November 18, 2022",Auto Rear Climate Controls,Chassis,NEW,STANDALONE,BERT_AUTO
+TL_V038_F020,TL_V038,2022.36.20,"November 18, 2022",Regenerative Braking,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V038_F021,TL_V038,2022.36.20,"November 18, 2022",Sonic,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F022,TL_V038,2022.36.20,"November 18, 2022",Cat Quest,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V038_F023,TL_V038,2022.36.20,"November 18, 2022",Cuphead,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F024,TL_V038,2022.36.20,"November 18, 2022",Full Screen Visualization,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F025,TL_V038,2022.36.20,"November 18, 2022",Suggested Destinations,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V038_F026,TL_V038,2022.36.20,"November 18, 2022",Tire Pressure,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F027,TL_V038,2022.36.20,"November 18, 2022",Unlatch Door,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F028,TL_V038,2022.36.20,"November 18, 2022",GPS Directions,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V038_F029,TL_V038,2022.36.20,"November 18, 2022",Mirrors Calibration,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F030,TL_V038,2022.36.20,"November 18, 2022",Uninstall Games,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V038_F031,TL_V038,2022.36.20,"November 18, 2022",Cabin Overheat Protection Default Temperature,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F032,TL_V038,2022.36.20,"November 18, 2022",Phone Icon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F033,TL_V038,2022.36.20,"November 18, 2022",HomeLink Buttons,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F034,TL_V038,2022.36.20,"November 18, 2022",Safety Menu Reorganized,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F035,TL_V038,2022.36.20,"November 18, 2022",Battery Test in Service Mode,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F036,TL_V038,2022.36.20,"November 18, 2022",Autosteer Tips,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F037,TL_V038,2022.36.20,"November 18, 2022",Turn Signals,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F038,TL_V038,2022.36.20,"November 18, 2022",Radio Icon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F039,TL_V038,2022.36.20,"November 18, 2022",Vehicle Alerts,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V038_F040,TL_V038,2022.36.20,"November 18, 2022",Battery Calibration,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V038_F041,TL_V038,2022.36.20,"November 18, 2022",Tesla Theater Status Bar,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V039_F001,TL_V039,2022.40.5,"November 12, 2022",FSD Beta v11 Release Notes,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V039_F002,TL_V039,2022.40.5,"November 12, 2022",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F001,TL_V040,2022.44.30.8,"January 11, 2023",WeChat Mini Programs,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V040_F002,TL_V040,2022.44.30.8,"January 11, 2023",Handwriting Keyboard,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V040_F003,TL_V040,2022.44.30.8,"January 11, 2023",Mango TV,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F004,TL_V040,2022.44.30.8,"January 11, 2023",Apple Music,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V040_F005,TL_V040,2022.44.30.8,"January 11, 2023",Steam (Beta),HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F006,TL_V040,2022.44.30.8,"January 11, 2023",Dog Mode,Body,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V040_F007,TL_V040,2022.44.30.8,"January 11, 2023",Media Controls,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V040_F008,TL_V040,2022.44.30.8,"January 11, 2023",myQ Connected Garage,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F009,TL_V040,2022.44.30.8,"January 11, 2023",Climate Control Fan Speed,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F010,TL_V040,2022.44.30.8,"January 11, 2023",Emissions Testing Mode via Mobile App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F011,TL_V040,2022.44.30.8,"January 11, 2023",Zoom Meetings,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V040_F012,TL_V040,2022.44.30.8,"January 11, 2023",Mahjong,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V040_F013,TL_V040,2022.44.30.8,"January 11, 2023",Always Rainbows,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V040_F014,TL_V040,2022.44.30.8,"January 11, 2023",Scheduled Light Show,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F015,TL_V040,2022.44.30.8,"January 11, 2023",Auto Turn Signals,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F016,TL_V040,2022.44.30.8,"January 11, 2023",Contact Lookup,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F017,TL_V040,2022.44.30.8,"January 11, 2023",Bluetooth Gaming Controllers,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V040_F018,TL_V040,2022.44.30.8,"January 11, 2023",Track Mode,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V040_F019,TL_V040,2022.44.30.8,"January 11, 2023",Auto-Present Door Handles,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F020,TL_V040,2022.44.30.8,"January 11, 2023",Exclude Automatic Door Opening at Home,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F021,TL_V040,2022.44.30.8,"January 11, 2023",Rear Screen Control,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F022,TL_V040,2022.44.30.8,"January 11, 2023",Confirm Phone Call Transfer,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F023,TL_V040,2022.44.30.8,"January 11, 2023",Audio Settings Shortcut,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F024,TL_V040,2022.44.30.8,"January 11, 2023",Verified Fart,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F025,TL_V040,2022.44.30.8,"January 11, 2023",HomeLink,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F026,TL_V040,2022.44.30.8,"January 11, 2023",Manual Fan Speed,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F027,TL_V040,2022.44.30.8,"January 11, 2023",Swipeable Cards,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V040_F028,TL_V040,2022.44.30.8,"January 11, 2023",Navigation UI,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V041_F001,TL_V041,2023.2.10,"January 28, 2023",Auto Steering Wheel Heat,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V041_F002,TL_V041,2023.2.10,"January 28, 2023",Sentry Mode Lighting,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V041_F003,TL_V041,2023.2.10,"January 28, 2023",Speed Assist,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V041_F004,TL_V041,2023.2.10,"January 28, 2023",Mahjong,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V041_F005,TL_V041,2023.2.10,"January 28, 2023",Thai Voice Navigation,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V041_F006,TL_V041,2023.2.10,"January 28, 2023",Handwriting Keyboard,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V041_F007,TL_V041,2023.2.10,"January 28, 2023",WeChat Mini Programs,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V041_F008,TL_V041,2023.2.10,"January 28, 2023",Mango TV,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V041_F009,TL_V041,2023.2.10,"January 28, 2023",Improvements to Service Mode,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V041_F010,TL_V041,2023.2.10,"January 28, 2023",Supercharger Prices,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V041_F011,TL_V041,2023.2.10,"January 28, 2023",View Cabin Camera,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V041_F012,TL_V041,2023.2.10,"January 28, 2023",Seat Heater Icons,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V041_F013,TL_V041,2023.2.10,"January 28, 2023",Suspension Menu,Chassis,MODIFIED,STANDALONE,BERT_AUTO
+TL_V042_F001,TL_V042,2023.6.100.1,"April 24, 2023",Regenerative Braking,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V042_F002,TL_V042,2023.6.100.1,"April 24, 2023",Power Meter,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V042_F003,TL_V042,2023.6.100.1,"April 24, 2023",App Displays the Vehicle's Route,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F001,TL_V043,2023.12.10,"May 23, 2023",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F002,TL_V043,2023.12.10,"May 23, 2023",FSD Beta v11.3.6,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V043_F003,TL_V043,2023.12.10,"May 23, 2023",Over-the-Air (OTA) Recall,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F004,TL_V043,2023.12.10,"May 23, 2023",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V043_F005,TL_V043,2023.12.10,"May 23, 2023",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V043_F006,TL_V043,2023.12.10,"May 23, 2023",Park Assist,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F007,TL_V043,2023.12.10,"May 23, 2023",Phone Call Controls,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V043_F008,TL_V043,2023.12.10,"May 23, 2023",Text Size,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V043_F009,TL_V043,2023.12.10,"May 23, 2023",Scroll Wheel Customization,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V043_F010,TL_V043,2023.12.10,"May 23, 2023",Controls Search,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V043_F011,TL_V043,2023.12.10,"May 23, 2023",Gear Chimes,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F012,TL_V043,2023.12.10,"May 23, 2023",Passenger Seat Controls,Body,NEW,STANDALONE,BERT_AUTO
+TL_V043_F013,TL_V043,2023.12.10,"May 23, 2023",Points of Interest,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V043_F014,TL_V043,2023.12.10,"May 23, 2023",Voice Recognition Language,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F015,TL_V043,2023.12.10,"May 23, 2023",Get to Know Your Tesla,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V043_F016,TL_V043,2023.12.10,"May 23, 2023",Rename Vehicle in App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F017,TL_V043,2023.12.10,"May 23, 2023",Improvements to Automatic Emergency Braking,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V043_F018,TL_V043,2023.12.10,"May 23, 2023",Parked Visualization,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F019,TL_V043,2023.12.10,"May 23, 2023",Speedometer Font,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F020,TL_V043,2023.12.10,"May 23, 2023",Nav Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V043_F021,TL_V043,2023.12.10,"May 23, 2023",Favoriting Songs,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V043_F022,TL_V043,2023.12.10,"May 23, 2023",Adjust Wiper Speed,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F023,TL_V043,2023.12.10,"May 23, 2023",Air Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V043_F024,TL_V043,2023.12.10,"May 23, 2023",Tesla Theater Icons,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V043_F025,TL_V043,2023.12.10,"May 23, 2023",App Drawer,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V043_F026,TL_V043,2023.12.10,"May 23, 2023",New Labels,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V043_F027,TL_V043,2023.12.10,"May 23, 2023",Charging Screen,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V044_F001,TL_V044,2023.20.6,"June 23, 2023",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V044_F002,TL_V044,2023.20.6,"June 23, 2023",FSD Beta v11.3.6,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V044_F003,TL_V044,2023.20.6,"June 23, 2023",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V044_F004,TL_V044,2023.20.6,"June 23, 2023",Tire Service,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V044_F005,TL_V044,2023.20.6,"June 23, 2023",Tire Service Mileage,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V044_F006,TL_V044,2023.20.6,"June 23, 2023",Text Size,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V044_F007,TL_V044,2023.20.6,"June 23, 2023",Pinyin Keyboard,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V044_F008,TL_V044,2023.20.6,"June 23, 2023",Windshield Wiper Control,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V044_F009,TL_V044,2023.20.6,"June 23, 2023",Phone Key,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V044_F010,TL_V044,2023.20.6,"June 23, 2023",New Data Sharing Policy,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V044_F011,TL_V044,2023.20.6,"June 23, 2023",Navigation Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V044_F012,TL_V044,2023.20.6,"June 23, 2023",Set PIN to Drive,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V044_F013,TL_V044,2023.20.6,"June 23, 2023",View All Cameras,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V044_F014,TL_V044,2023.20.6,"June 23, 2023",Current Trip Odometer,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V044_F015,TL_V044,2023.20.6,"June 23, 2023",Passenger Climate Temperature,Body,NEW,STANDALONE,BERT_AUTO
+TL_V045_F001,TL_V045,2023.26.10,"August 23, 2023",Cabin Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V045_F002,TL_V045,2023.26.10,"August 23, 2023",Full Self-Driving (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F003,TL_V045,2023.26.10,"August 23, 2023",FSD Beta v11.4.4,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V045_F004,TL_V045,2023.26.10,"August 23, 2023",Driving Visualization Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V045_F005,TL_V045,2023.26.10,"August 23, 2023",Full Self-Driving (Beta) Suspension,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V045_F006,TL_V045,2023.26.10,"August 23, 2023",Blind Spot Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V045_F007,TL_V045,2023.26.10,"August 23, 2023",Customize the Scroll Wheel,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F008,TL_V045,2023.26.10,"August 23, 2023",Destination Closing Soon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F009,TL_V045,2023.26.10,"August 23, 2023",Spotify Refresh,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F010,TL_V045,2023.26.10,"August 23, 2023",Bluetooth Game Controllers,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V045_F011,TL_V045,2023.26.10,"August 23, 2023",Warmer Display Colors,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V045_F012,TL_V045,2023.26.10,"August 23, 2023",Automatic Headlights,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F013,TL_V045,2023.26.10,"August 23, 2023",Charge On Solar,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F014,TL_V045,2023.26.10,"August 23, 2023",Camera View on Tesla App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F015,TL_V045,2023.26.10,"August 23, 2023",Vampire Survivors Game,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F016,TL_V045,2023.26.10,"August 23, 2023",Other Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V045_F017,TL_V045,2023.26.10,"August 23, 2023",Improved Phone Calls,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F018,TL_V045,2023.26.10,"August 23, 2023",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V045_F019,TL_V045,2023.26.10,"August 23, 2023",Supercharging Details,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F020,TL_V045,2023.26.10,"August 23, 2023",Automatic Navigation Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V045_F021,TL_V045,2023.26.10,"August 23, 2023",Updated Apps Badge,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V045_F022,TL_V045,2023.26.10,"August 23, 2023",Daily Charge Limit,Powertrain,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V045_F023,TL_V045,2023.26.10,"August 23, 2023",Updated Manual App,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V046_F001,TL_V046,2023.31.600,"October 27, 2023",Drowsiness Warning,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V046_F002,TL_V046,2023.31.600,"October 27, 2023",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V047_F001,TL_V047,2023.32.4,"September 11, 2023",Detailed Intersection View,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V047_F002,TL_V047,2023.32.4,"September 11, 2023",Hebrew Language Added,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V047_F003,TL_V047,2023.32.4,"September 11, 2023",FSD Beta v11.4.4,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V047_F004,TL_V047,2023.32.4,"September 11, 2023",Improved Autopilot Visualizations,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V047_F005,TL_V047,2023.32.4,"September 11, 2023",Improved Reverse Camera View,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V047_F006,TL_V047,2023.32.4,"September 11, 2023",Service Mode Release Notes,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V047_F007,TL_V047,2023.32.4,"September 11, 2023",Improved Camera Clarity,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V047_F008,TL_V047,2023.32.4,"September 11, 2023",Service Mode ECU Status,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V047_F009,TL_V047,2023.32.4,"September 11, 2023",Volume Indicator,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V048_F001,TL_V048,2023.38.8,"November 12, 2023",Rear Passenger Headphones,Body,NEW,STANDALONE,BERT_AUTO
+TL_V048_F002,TL_V048,2023.38.8,"November 12, 2023",Faster Hazard Lights After a Crash,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V048_F003,TL_V048,2023.38.8,"November 12, 2023",Predictive Charger Availability,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V048_F004,TL_V048,2023.38.8,"November 12, 2023",Multiplayer Vampire Survivors,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V048_F005,TL_V048,2023.38.8,"November 12, 2023",Location Sharing,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V048_F006,TL_V048,2023.38.8,"November 12, 2023",Windows During Update,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V048_F007,TL_V048,2023.38.8,"November 12, 2023",Improvements to Service Mode,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V048_F008,TL_V048,2023.38.8,"November 12, 2023",Single-Tap Autopilot Activation,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V048_F009,TL_V048,2023.38.8,"November 12, 2023",New Privacy Options,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V049_F001,TL_V049,2023.44.30.30,"March 24, 2024",FSD Beta v12.3.1,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V049_F002,TL_V049,2023.44.30.30,"March 24, 2024",Single Pull in FSD Beta,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V049_F003,TL_V049,2023.44.30.30,"March 24, 2024",Removal of TACC with FSD Beta,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V049_F004,TL_V049,2023.44.30.30,"March 24, 2024",U-Turns,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V049_F005,TL_V049,2023.44.30.30,"March 24, 2024",Automatic Speed Offset,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F001,TL_V050,2024.2.11,"March 21, 2024",Improved Driving Visualization,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V050_F002,TL_V050,2024.2.11,"March 21, 2024",Autopark,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V050_F003,TL_V050,2024.2.11,"March 21, 2024",Time Until Charging Starts,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F004,TL_V050,2024.2.11,"March 21, 2024",Estimated Battery Range Update,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V050_F005,TL_V050,2024.2.11,"March 21, 2024",Supercharging in Cold Weather,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F006,TL_V050,2024.2.11,"March 21, 2024",Ultra-Wideband Phone Key,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F007,TL_V050,2024.2.11,"March 21, 2024",Reminder to Plug In at Home,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F008,TL_V050,2024.2.11,"March 21, 2024",Improved Ride and Handling,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V050_F009,TL_V050,2024.2.11,"March 21, 2024",Over-the-Air Recall: Telltale Text Size,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F010,TL_V050,2024.2.11,"March 21, 2024",Adaptive High Beams,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V050_F011,TL_V050,2024.2.11,"March 21, 2024",More Efficient Charging,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V050_F012,TL_V050,2024.2.11,"March 21, 2024",Security Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V050_F013,TL_V050,2024.2.11,"March 21, 2024",Unlock Buttons,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F014,TL_V050,2024.2.11,"March 21, 2024",Trips Menu Redesign,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V050_F015,TL_V050,2024.2.11,"March 21, 2024",Supercharging Tips,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F016,TL_V050,2024.2.11,"March 21, 2024",PIN to Drive,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F017,TL_V050,2024.2.11,"March 21, 2024",All Apps Menu,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V050_F018,TL_V050,2024.2.11,"March 21, 2024",...,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V050_F019,TL_V050,2024.2.11,"March 21, 2024",Additional Vehicle Info,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V050_F020,TL_V050,2024.2.11,"March 21, 2024",Software Version in App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F001,TL_V051,2024.8.7,"March 25, 2024",Vehicle Alarm Includes Trailer,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F002,TL_V051,2024.8.7,"March 25, 2024",Ultra-Wideband Phone Key,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F003,TL_V051,2024.8.7,"March 25, 2024",One-Time Charge Limit,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F004,TL_V051,2024.8.7,"March 25, 2024",View or Reset Tire Mileage,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F005,TL_V051,2024.8.7,"March 25, 2024",Rear Passenger Headphones,Body,NEW,STANDALONE,BERT_AUTO
+TL_V051_F006,TL_V051,2024.8.7,"March 25, 2024",Auto Wipers,Chassis,NEW,STANDALONE,BERT_AUTO
+TL_V051_F007,TL_V051,2024.8.7,"March 25, 2024",Danger Zones on Your Route,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F008,TL_V051,2024.8.7,"March 25, 2024",Adaptive High Beams,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V051_F009,TL_V051,2024.8.7,"March 25, 2024",Speed Cameras on Your Route,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F010,TL_V051,2024.8.7,"March 25, 2024",Security Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V051_F011,TL_V051,2024.8.7,"March 25, 2024",Windshield Washer,Powertrain,NEW,STANDALONE,BERT_AUTO
+TL_V051_F012,TL_V051,2024.8.7,"March 25, 2024",Fold Mirrors Button,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F013,TL_V051,2024.8.7,"March 25, 2024",Connectivity Icon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F014,TL_V051,2024.8.7,"March 25, 2024",Turn Signals,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V051_F015,TL_V051,2024.8.7,"March 25, 2024",New WiFi Menu,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V051_F016,TL_V051,2024.8.7,"March 25, 2024",New Bluetooth Menu,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F001,TL_V052,2024.14.6,"May 10, 2024",FSD (Supervised) v12.3.6,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F002,TL_V052,2024.14.6,"May 10, 2024",Full Self-Driving (Supervised),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F003,TL_V052,2024.14.6,"May 10, 2024",Tesla Vision Park Assist,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F004,TL_V052,2024.14.6,"May 10, 2024",Visual Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F005,TL_V052,2024.14.6,"May 10, 2024",Audible,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F006,TL_V052,2024.14.6,"May 10, 2024",Hands-Free Trunk,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F007,TL_V052,2024.14.6,"May 10, 2024",Preview of Sentry Mode Recordings,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F008,TL_V052,2024.14.6,"May 10, 2024",Trip Progress Bar,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F009,TL_V052,2024.14.6,"May 10, 2024",Spotify Queue and Playback Speed,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F010,TL_V052,2024.14.6,"May 10, 2024",Better Route Available,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F011,TL_V052,2024.14.6,"May 10, 2024",Wiper Controls,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F012,TL_V052,2024.14.6,"May 10, 2024",Other Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F013,TL_V052,2024.14.6,"May 10, 2024",Auto Shift (Beta),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F014,TL_V052,2024.14.6,"May 10, 2024",Speed Camera Chime,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F015,TL_V052,2024.14.6,"May 10, 2024",Average Speed Zones,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F016,TL_V052,2024.14.6,"May 10, 2024",Adaptive High Beams,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F017,TL_V052,2024.14.6,"May 10, 2024",Locking Differentials,Chassis,NEW,STANDALONE,BERT_AUTO
+TL_V052_F018,TL_V052,2024.14.6,"May 10, 2024",Trail Assist,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F019,TL_V052,2024.14.6,"May 10, 2024",Slippery Surface,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F020,TL_V052,2024.14.6,"May 10, 2024",Ride and Handling with a Load,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F021,TL_V052,2024.14.6,"May 10, 2024",CyberTent Mode,Body,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F022,TL_V052,2024.14.6,"May 10, 2024",Off-Road Mode,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F023,TL_V052,2024.14.6,"May 10, 2024",Terrain Options in Baja Mode,Driving Automation,MODIFIED,STANDALONE,BERT_AUTO
+TL_V052_F024,TL_V052,2024.14.6,"May 10, 2024",Beach Buggy Racing 2,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F025,TL_V052,2024.14.6,"May 10, 2024",Cabin Overheat Protection,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F026,TL_V052,2024.14.6,"May 10, 2024",Customize Scroll Wheel Functions,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F027,TL_V052,2024.14.6,"May 10, 2024",Cybertruck Colorizer,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F028,TL_V052,2024.14.6,"May 10, 2024",Improved Turning Circle,Powertrain,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F029,TL_V052,2024.14.6,"May 10, 2024",Front Passenger Air Vent,Body,NEW,STANDALONE,BERT_AUTO
+TL_V052_F030,TL_V052,2024.14.6,"May 10, 2024",New Lock Sounds,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F031,TL_V052,2024.14.6,"May 10, 2024",Zoom,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F032,TL_V052,2024.14.6,"May 10, 2024",Security Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V052_F033,TL_V052,2024.14.6,"May 10, 2024",Driver Profile,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F034,TL_V052,2024.14.6,"May 10, 2024",Entertainment Apps UI,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F035,TL_V052,2024.14.6,"May 10, 2024",Cybertruck New Icon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F036,TL_V052,2024.14.6,"May 10, 2024",Tesla Theater UI,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F037,TL_V052,2024.14.6,"May 10, 2024",FSD Version,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F038,TL_V052,2024.14.6,"May 10, 2024",Navigation Path,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F039,TL_V052,2024.14.6,"May 10, 2024",Vehicle Visualization,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V052_F040,TL_V052,2024.14.6,"May 10, 2024",Nav App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F041,TL_V052,2024.14.6,"May 10, 2024",Climate Icon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F042,TL_V052,2024.14.6,"May 10, 2024",Explicit Content Filter for Apple Music,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F043,TL_V052,2024.14.6,"May 10, 2024",Pedals & Steering Menu Updated,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V052_F044,TL_V052,2024.14.6,"May 10, 2024",Quick Controls Updated,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V052_F045,TL_V052,2024.14.6,"May 10, 2024",Search Menus,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F046,TL_V052,2024.14.6,"May 10, 2024",Sentry Mode Video,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F047,TL_V052,2024.14.6,"May 10, 2024",New Media Player,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V052_F048,TL_V052,2024.14.6,"May 10, 2024",Status Bar Icons,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F049,TL_V052,2024.14.6,"May 10, 2024",New Auto Shift User Interface,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F050,TL_V052,2024.14.6,"May 10, 2024",Charging Display,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F051,TL_V052,2024.14.6,"May 10, 2024",Pause Trunk Opening,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F052,TL_V052,2024.14.6,"May 10, 2024",Larger Speedometer,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V052_F053,TL_V052,2024.14.6,"May 10, 2024",Power Meter,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V052_F054,TL_V052,2024.14.6,"May 10, 2024",Improved Autopilot Visualizations,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V053_F001,TL_V053,2024.20.15,"July 27, 2024",FSD (Supervised) v12.5.1,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V053_F002,TL_V053,2024.20.15,"July 27, 2024",Vision-Based Attention Monitoring,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V053_F003,TL_V053,2024.20.15,"July 27, 2024",Full Self-Driving (Supervised),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V053_F004,TL_V053,2024.20.15,"July 27, 2024",Autopilot Suspension,Chassis,MODIFIED,STANDALONE,BERT_AUTO
+TL_V053_F005,TL_V053,2024.20.15,"July 27, 2024",Power Front Door,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V053_F006,TL_V053,2024.20.15,"July 27, 2024",Headlights Adapt for Curves,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V053_F007,TL_V053,2024.20.15,"July 27, 2024",Beach Buggy Racing 2 - Supercharger Races,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V053_F008,TL_V053,2024.20.15,"July 27, 2024",Hot Weather Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V053_F009,TL_V053,2024.20.15,"July 27, 2024",Security Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V053_F010,TL_V053,2024.20.15,"July 27, 2024",OTA Recall,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V053_F011,TL_V053,2024.20.15,"July 27, 2024",Autopilot Attention Warning,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V053_F012,TL_V053,2024.20.15,"July 27, 2024",Sharing Location Indicator,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V053_F013,TL_V053,2024.20.15,"July 27, 2024",Tesla Atari Games Removed,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V053_F014,TL_V053,2024.20.15,"July 27, 2024",Explicit Content Filter for TIDAL,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V053_F015,TL_V053,2024.20.15,"July 27, 2024",Green Dot When Monitoring is Active,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F001,TL_V054,2024.26.20,"August 23, 2024",FSD (Supervised) v12.5.1.5,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V054_F002,TL_V054,2024.26.20,"August 23, 2024",Vision-Based Attention Monitoring,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V054_F003,TL_V054,2024.26.20,"August 23, 2024",Full Self-Driving (Supervised),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F004,TL_V054,2024.26.20,"August 23, 2024",YouTube Music,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V054_F005,TL_V054,2024.26.20,"August 23, 2024",Go on Green,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F006,TL_V054,2024.26.20,"August 23, 2024",Vision Speed Limits,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V054_F007,TL_V054,2024.26.20,"August 23, 2024",Amazon Music,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V054_F008,TL_V054,2024.26.20,"August 23, 2024",Castle Doombad Classic,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V054_F009,TL_V054,2024.26.20,"August 23, 2024",Parental Controls,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V054_F010,TL_V054,2024.26.20,"August 23, 2024",Weather Forecast and Air Quality,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V054_F011,TL_V054,2024.26.20,"August 23, 2024",Schedule Charge and Preconditioning,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F012,TL_V054,2024.26.20,"August 23, 2024",Navigate to Sub-Destinations,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F013,TL_V054,2024.26.20,"August 23, 2024",Other Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V054_F014,TL_V054,2024.26.20,"August 23, 2024",Security Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V054_F015,TL_V054,2024.26.20,"August 23, 2024",Show Next Preconditioning / Charging Event,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F016,TL_V054,2024.26.20,"August 23, 2024",Hide Music Services Per Profile,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F017,TL_V054,2024.26.20,"August 23, 2024",Audio Balance Per Profile,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F018,TL_V054,2024.26.20,"August 23, 2024",Service Center Tips,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F019,TL_V054,2024.26.20,"August 23, 2024",Reduce Fan Speed Hint,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F020,TL_V054,2024.26.20,"August 23, 2024",Reduce Fan Speed Option,Body,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V054_F021,TL_V054,2024.26.20,"August 23, 2024",New Key Required Screen,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F022,TL_V054,2024.26.20,"August 23, 2024",Improved Front Camera Clarity,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V054_F023,TL_V054,2024.26.20,"August 23, 2024",Traffic-Aware Cruise Control Chime,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V054_F024,TL_V054,2024.26.20,"August 23, 2024",New Ambient Lighting Options,Powertrain,NEW,STANDALONE,BERT_AUTO
+TL_V054_F025,TL_V054,2024.26.20,"August 23, 2024",Improved Climate Panel,Powertrain,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V055_F001,TL_V055,2024.32.100.1,"October 29, 2024",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V056_F001,TL_V056,2024.38.100,"November 8, 2024",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V057_F001,TL_V057,2024.44.300,"January 29, 2025",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V058_F001,TL_V058,2025.2.200,"March 23, 2025",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V059_F001,TL_V059,2025.8.100,"April 11, 2025",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V060_F001,TL_V060,2025.14.100.1,"May 24, 2025",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V060_F002,TL_V060,2025.14.100.1,"May 24, 2025",Improvements to Heated Steering Wheel,Powertrain,MODIFIED,STANDALONE,BERT_AUTO
+TL_V060_F003,TL_V060,2025.14.100.1,"May 24, 2025",Apple Music Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V060_F004,TL_V060,2025.14.100.1,"May 24, 2025",Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V060_F005,TL_V060,2025.14.100.1,"May 24, 2025",Sentry Mode Improvement,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V060_F006,TL_V060,2025.14.100.1,"May 24, 2025",Lane Departure Avoidance Updated to FSD,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V060_F007,TL_V060,2025.14.100.1,"May 24, 2025",Improved Dashcam Viewer,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V060_F008,TL_V060,2025.14.100.1,"May 24, 2025",Camera App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V060_F009,TL_V060,2025.14.100.1,"May 24, 2025",Speedometer,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V060_F010,TL_V060,2025.14.100.1,"May 24, 2025",Sentry Mode Menu,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V060_F011,TL_V060,2025.14.100.1,"May 24, 2025",Service Mode Release Notes,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V061_F001,TL_V061,2025.20.100,"June 30, 2025",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V061_F002,TL_V061,2025.20.100,"June 30, 2025",PIN to Drive,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V061_F003,TL_V061,2025.20.100,"June 30, 2025",Trunk Open Warning,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V061_F004,TL_V061,2025.20.100,"June 30, 2025",Improved Energy App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V061_F005,TL_V061,2025.20.100,"June 30, 2025",Orange Dot When Using Voice Commands,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V061_F006,TL_V061,2025.20.100,"June 30, 2025",Dashcam Viewer Wider View,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V061_F007,TL_V061,2025.20.100,"June 30, 2025",Blind Spot Camera,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V061_F008,TL_V061,2025.20.100,"June 30, 2025",Dashcam Viewer Multi-Delete,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V061_F009,TL_V061,2025.20.100,"June 30, 2025",…,HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V061_F010,TL_V061,2025.20.100,"June 30, 2025",Privacy Section Now Lists Microphone,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V061_F011,TL_V061,2025.20.100,"June 30, 2025",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V062_F001,TL_V062,2025.26.100,"August 16, 2025",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V062_F002,TL_V062,2025.26.100,"August 16, 2025",New Lock Alert,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V062_F003,TL_V062,2025.26.100,"August 16, 2025",Mobile Access,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V062_F004,TL_V062,2025.26.100,"August 16, 2025",Battery Health Test Removed,Powertrain,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V062_F005,TL_V062,2025.26.100,"August 16, 2025",Tow Limit Exceeded,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V062_F006,TL_V062,2025.26.100,"August 16, 2025",Car Wash Mode Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V062_F007,TL_V062,2025.26.100,"August 16, 2025",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V062_F008,TL_V062,2025.26.100,"August 16, 2025",Sentry Mode With Ambient Lighting,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V063_F001,TL_V063,2025.32.100,"September 24, 2025",Minor Fixes,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V063_F002,TL_V063,2025.32.100,"September 24, 2025",FSD Strikes,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V063_F003,TL_V063,2025.32.100,"September 24, 2025",Summon Standby,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V063_F004,TL_V063,2025.32.100,"September 24, 2025",Grok Reminder,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V063_F005,TL_V063,2025.32.100,"September 24, 2025",PIN to Drive Supports Start FSD From Park,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V063_F006,TL_V063,2025.32.100,"September 24, 2025",Drowsiness Detected,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V063_F007,TL_V063,2025.32.100,"September 24, 2025",Improved Visualizations,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V063_F008,TL_V063,2025.32.100,"September 24, 2025",Bluetooth Audio,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V063_F009,TL_V063,2025.32.100,"September 24, 2025",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V064_F001,TL_V064,2025.38.9.6,"November 27, 2025",FSD (Supervised) v14.2.1,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V064_F002,TL_V064,2025.38.9.6,"November 27, 2025",Arrival Options,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V064_F003,TL_V064,2025.38.9.6,"November 27, 2025",Speed Profiles,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V064_F004,TL_V064,2025.38.9.6,"November 27, 2025",UI Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V064_F005,TL_V064,2025.38.9.6,"November 27, 2025",Brake Confirm,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V064_F006,TL_V064,2025.38.9.6,"November 27, 2025",Full Self-Driving (Supervised),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V064_F007,TL_V064,2025.38.9.6,"November 27, 2025",Tron Mode,Body,NEW,STANDALONE,BERT_AUTO
+TL_V064_F008,TL_V064,2025.38.9.6,"November 27, 2025",3D Buildings,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V064_F009,TL_V064,2025.38.9.6,"November 27, 2025",Satellite View,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V064_F010,TL_V064,2025.38.9.6,"November 27, 2025",Dashcam Viewer Updates,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V064_F011,TL_V064,2025.38.9.6,"November 27, 2025",Side Cameras Recording,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V064_F012,TL_V064,2025.38.9.6,"November 27, 2025",New Scroll Wheel Functions,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V064_F013,TL_V064,2025.38.9.6,"November 27, 2025",Grok (Beta),HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V064_F014,TL_V064,2025.38.9.6,"November 27, 2025",Onboarding Guide,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V064_F015,TL_V064,2025.38.9.6,"November 27, 2025",Minor Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V064_F016,TL_V064,2025.38.9.6,"November 27, 2025",Santa Mode,Body,NEW,STANDALONE,BERT_AUTO
+TL_V064_F017,TL_V064,2025.38.9.6,"November 27, 2025",New FSD Guide,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V064_F018,TL_V064,2025.38.9.6,"November 27, 2025",More Charging Information,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V064_F019,TL_V064,2025.38.9.6,"November 27, 2025",Keep Accessory Power On App Control,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V064_F020,TL_V064,2025.38.9.6,"November 27, 2025",Buy Parts,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V064_F021,TL_V064,2025.38.9.6,"November 27, 2025",Charger Visualization,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V064_F022,TL_V064,2025.38.9.6,"November 27, 2025",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V065_F001,TL_V065,2025.44.25.5,"December 13, 2025",FSD (Supervised) v14.2.1.25,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V065_F002,TL_V065,2025.44.25.5,"December 13, 2025",Arrival Options,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F003,TL_V065,2025.44.25.5,"December 13, 2025",Speed Profiles,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V065_F004,TL_V065,2025.44.25.5,"December 13, 2025",UI Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V065_F005,TL_V065,2025.44.25.5,"December 13, 2025",Brake Confirm,Chassis,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V065_F006,TL_V065,2025.44.25.5,"December 13, 2025",Full Self-Driving (Supervised),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F007,TL_V065,2025.44.25.5,"December 13, 2025",Grok with Navigation Commands (Beta),HMI/Multimedia/Telematics,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V065_F008,TL_V065,2025.44.25.5,"December 13, 2025",Tesla Photobooth,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F009,TL_V065,2025.44.25.5,"December 13, 2025",Dog Mode Live Activity on iOS,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F010,TL_V065,2025.44.25.5,"December 13, 2025",Dashcam Viewer Update,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F011,TL_V065,2025.44.25.5,"December 13, 2025",Santa Mode Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F012,TL_V065,2025.44.25.5,"December 13, 2025",Light Show Update,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V065_F013,TL_V065,2025.44.25.5,"December 13, 2025",Paint Shop,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F014,TL_V065,2025.44.25.5,"December 13, 2025",Paint Shop Upgrade,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F015,TL_V065,2025.44.25.5,"December 13, 2025",Navigation Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V065_F016,TL_V065,2025.44.25.5,"December 13, 2025",Automatic HOV Lanes Routing,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F017,TL_V065,2025.44.25.5,"December 13, 2025",Supercharger Site Maps,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F018,TL_V065,2025.44.25.5,"December 13, 2025",Phone Left On Wireless Charger,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F019,TL_V065,2025.44.25.5,"December 13, 2025",Phone Left Behind,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F020,TL_V065,2025.44.25.5,"December 13, 2025",Save Charge Limit by Location,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F021,TL_V065,2025.44.25.5,"December 13, 2025",SpaceX Docking Simulator,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F022,TL_V065,2025.44.25.5,"December 13, 2025",Minor Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F023,TL_V065,2025.44.25.5,"December 13, 2025",New Wheel Options,Chassis,MODIFIED,STANDALONE,BERT_AUTO
+TL_V065_F024,TL_V065,2025.44.25.5,"December 13, 2025",Express Lanes,Body,NEW,STANDALONE,BERT_AUTO
+TL_V065_F025,TL_V065,2025.44.25.5,"December 13, 2025",Supercharger Live Maps Shows Exact Models,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F026,TL_V065,2025.44.25.5,"December 13, 2025",Dashcam Viewer Zoom Support,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V065_F027,TL_V065,2025.44.25.5,"December 13, 2025",Camera Visibility Warning Improvement,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V065_F028,TL_V065,2025.44.25.5,"December 13, 2025",V4 Supercharger Visualization,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V065_F029,TL_V065,2025.44.25.5,"December 13, 2025",Wrap & License Plate Icons,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F030,TL_V065,2025.44.25.5,"December 13, 2025",Car Wash Mode Notification,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F031,TL_V065,2025.44.25.5,"December 13, 2025",Parking Brake,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F032,TL_V065,2025.44.25.5,"December 13, 2025",Car Wash Mode Redesign,Body,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V065_F033,TL_V065,2025.44.25.5,"December 13, 2025",Switch to Bluetooth,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F034,TL_V065,2025.44.25.5,"December 13, 2025",New Visualizations With Unreal Engine,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F035,TL_V065,2025.44.25.5,"December 13, 2025",Air Suspension Controls,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F036,TL_V065,2025.44.25.5,"December 13, 2025",Boomerang Fu Game Removed,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F037,TL_V065,2025.44.25.5,"December 13, 2025",Favorites On Map,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F038,TL_V065,2025.44.25.5,"December 13, 2025",View Dashcam Storage,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F039,TL_V065,2025.44.25.5,"December 13, 2025",Dashcam Filters,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V065_F040,TL_V065,2025.44.25.5,"December 13, 2025",Hebrew Language Added,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V065_F041,TL_V065,2025.44.25.5,"December 13, 2025",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V066_F001,TL_V066,2025.45.32.1,"February 8, 2026",Automation App,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F002,TL_V066,2025.45.32.1,"February 8, 2026",Hey Tesla,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F003,TL_V066,2025.45.32.1,"February 8, 2026",Dashcam Recent Footage Duration,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V066_F004,TL_V066,2025.45.32.1,"February 8, 2026",Finding Superchargers,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F005,TL_V066,2025.45.32.1,"February 8, 2026",Nearby Parking,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F006,TL_V066,2025.45.32.1,"February 8, 2026",Paint Shop,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F007,TL_V066,2025.45.32.1,"February 8, 2026",Weixin Connection,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F008,TL_V066,2025.45.32.1,"February 8, 2026",Dog Mode Live Activity on iOS,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F009,TL_V066,2025.45.32.1,"February 8, 2026",QQ Music Sing-Along Mode,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F010,TL_V066,2025.45.32.1,"February 8, 2026",Lyrics View Refresh,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F011,TL_V066,2025.45.32.1,"February 8, 2026",KuGou Music,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F012,TL_V066,2025.45.32.1,"February 8, 2026",Dashcam Viewer Update,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F013,TL_V066,2025.45.32.1,"February 8, 2026",Phone Left On Wireless Charger,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F014,TL_V066,2025.45.32.1,"February 8, 2026",Tesla Photobooth,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F015,TL_V066,2025.45.32.1,"February 8, 2026",Santa Mode Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F016,TL_V066,2025.45.32.1,"February 8, 2026",Light Show Update,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V066_F017,TL_V066,2025.45.32.1,"February 8, 2026",Navigation Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V066_F018,TL_V066,2025.45.32.1,"February 8, 2026",Phone Left Behind,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F019,TL_V066,2025.45.32.1,"February 8, 2026",Save Charge Limit by Location,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F020,TL_V066,2025.45.32.1,"February 8, 2026",SpaceX Docking Simulator,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F021,TL_V066,2025.45.32.1,"February 8, 2026",Minor Update,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V066_F022,TL_V066,2025.45.32.1,"February 8, 2026",Minor Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F023,TL_V066,2025.45.32.1,"February 8, 2026",New Wheel Options,Chassis,MODIFIED,STANDALONE,BERT_AUTO
+TL_V066_F024,TL_V066,2025.45.32.1,"February 8, 2026",Express Lanes,Body,NEW,STANDALONE,BERT_AUTO
+TL_V066_F025,TL_V066,2025.45.32.1,"February 8, 2026",Supercharger Live Maps Shows Exact Models,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F026,TL_V066,2025.45.32.1,"February 8, 2026",Dashcam Viewer Zoom Support,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V066_F027,TL_V066,2025.45.32.1,"February 8, 2026",Camera Visibility Warning Improvement,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V066_F028,TL_V066,2025.45.32.1,"February 8, 2026",V4 Supercharger Visualization,Driving Automation,NEW,STANDALONE,BERT_AUTO
+TL_V066_F029,TL_V066,2025.45.32.1,"February 8, 2026",Wrap & License Plate Icons,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F030,TL_V066,2025.45.32.1,"February 8, 2026",Car Wash Mode Notification,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F031,TL_V066,2025.45.32.1,"February 8, 2026",Parking Brake,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F032,TL_V066,2025.45.32.1,"February 8, 2026",Car Wash Mode Redesign,Body,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V066_F033,TL_V066,2025.45.32.1,"February 8, 2026",Switch to Bluetooth,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F034,TL_V066,2025.45.32.1,"February 8, 2026",New Visualizations With Unreal Engine,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F035,TL_V066,2025.45.32.1,"February 8, 2026",Air Suspension Controls,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F036,TL_V066,2025.45.32.1,"February 8, 2026",Boomerang Fu Game Removed,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F037,TL_V066,2025.45.32.1,"February 8, 2026",Favorites On Map,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F038,TL_V066,2025.45.32.1,"February 8, 2026",View Dashcam Storage,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F039,TL_V066,2025.45.32.1,"February 8, 2026",Dashcam Filters,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V066_F040,TL_V066,2025.45.32.1,"February 8, 2026",Hebrew Language Added,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V066_F041,TL_V066,2025.45.32.1,"February 8, 2026",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V067_F001,TL_V067,2026.2.9.8,"April 22, 2026",FSD (Supervised) v14.3.2,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V067_F002,TL_V067,2026.2.9.8,"April 22, 2026",Full Self-Driving (Supervised),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V067_F003,TL_V067,2026.2.9.8,"April 22, 2026",Blind Spot Warning While Parked,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V067_F004,TL_V067,2026.2.9.8,"April 22, 2026",Autopilot Name Changes,Driving Automation,MODIFIED,STANDALONE,BERT_AUTO
+TL_V067_F005,TL_V067,2026.2.9.8,"April 22, 2026",Maps Version,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V067_F006,TL_V067,2026.2.9.8,"April 22, 2026",Supercharger Site Maps Expanded,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V067_F007,TL_V067,2026.2.9.8,"April 22, 2026",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V068_F001,TL_V068,2026.8.3.10,"May 1, 2026",FSD (Supervised) v13.2.9 Down Under,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V068_F002,TL_V068,2026.8.3.10,"May 1, 2026",Full Self-Driving (Supervised) Down Under,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V068_F003,TL_V068,2026.8.3.10,"May 1, 2026",Vision-Based Attention Monitoring,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V068_F004,TL_V068,2026.8.3.10,"May 1, 2026",Minor Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V068_F005,TL_V068,2026.8.3.10,"May 1, 2026",Dashcam Viewer Improvements,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V068_F006,TL_V068,2026.8.3.10,"May 1, 2026",Driver Profile,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V068_F007,TL_V068,2026.8.3.10,"May 1, 2026",Slovak Language Support,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V068_F008,TL_V068,2026.8.3.10,"May 1, 2026",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V069_F001,TL_V069,2026.14.6.6,"May 17, 2026",FSD (Supervised) v14.3.3,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V069_F002,TL_V069,2026.14.6.6,"May 17, 2026",Self-Driving App,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F003,TL_V069,2026.14.6.6,"May 17, 2026",Immersive Sound Upgrade,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F004,TL_V069,2026.14.6.6,"May 17, 2026",Full Self-Driving (Supervised),Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F005,TL_V069,2026.14.6.6,"May 17, 2026",Rear Display,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F006,TL_V069,2026.14.6.6,"May 17, 2026","""Hey Grok""",HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F007,TL_V069,2026.14.6.6,"May 17, 2026",Pet Mode,Body,MODIFIED,STANDALONE,BERT_AUTO
+TL_V069_F008,TL_V069,2026.14.6.6,"May 17, 2026",Paint Shop,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F009,TL_V069,2026.14.6.6,"May 17, 2026",Visual Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F010,TL_V069,2026.14.6.6,"May 17, 2026",Trips,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V069_F011,TL_V069,2026.14.6.6,"May 17, 2026",Blind Spot Warning While Parked,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F012,TL_V069,2026.14.6.6,"May 17, 2026",Sketchpad,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F013,TL_V069,2026.14.6.6,"May 17, 2026",Blind Spot Warning Accent Lights,Body,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F014,TL_V069,2026.14.6.6,"May 17, 2026",Chime When Light Is Green,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F015,TL_V069,2026.14.6.6,"May 17, 2026",Live Camera View,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F016,TL_V069,2026.14.6.6,"May 17, 2026",Music App Queuing,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F017,TL_V069,2026.14.6.6,"May 17, 2026",Automatic Software Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F018,TL_V069,2026.14.6.6,"May 17, 2026",Dashcam Viewer Updates,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F019,TL_V069,2026.14.6.6,"May 17, 2026",Weather Maps Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V069_F020,TL_V069,2026.14.6.6,"May 17, 2026",Supercharger Pricing Filter,Powertrain,NEW,STANDALONE,BERT_AUTO
+TL_V069_F021,TL_V069,2026.14.6.6,"May 17, 2026",Keyboard,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F022,TL_V069,2026.14.6.6,"May 17, 2026",Security Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V069_F023,TL_V069,2026.14.6.6,"May 17, 2026",Updated Disengagement Menu,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F024,TL_V069,2026.14.6.6,"May 17, 2026",Cloud Profiles,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F025,TL_V069,2026.14.6.6,"May 17, 2026",Amber Brake Lights,Chassis,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F026,TL_V069,2026.14.6.6,"May 17, 2026",Parental Controls Improvement,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V069_F027,TL_V069,2026.14.6.6,"May 17, 2026",Increased Attention Monitoring Alert,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F028,TL_V069,2026.14.6.6,"May 17, 2026",Grok Turns Off After Inactivity,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F029,TL_V069,2026.14.6.6,"May 17, 2026",Grok Favorites,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F030,TL_V069,2026.14.6.6,"May 17, 2026",Advanced Software Updates,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F031,TL_V069,2026.14.6.6,"May 17, 2026",Re-Order Trip Meters,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F032,TL_V069,2026.14.6.6,"May 17, 2026",Chromium Browser Updated,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F033,TL_V069,2026.14.6.6,"May 17, 2026",Service Mode Improvements,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V069_F034,TL_V069,2026.14.6.6,"May 17, 2026",Save Recent Dashcam Videos,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F035,TL_V069,2026.14.6.6,"May 17, 2026",Volume Icons,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F036,TL_V069,2026.14.6.6,"May 17, 2026",Driver Profiles,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V069_F037,TL_V069,2026.14.6.6,"May 17, 2026",Grok Settings,HMI/Multimedia/Telematics,MODIFIED,STANDALONE,BERT_AUTO
+TL_V069_F038,TL_V069,2026.14.6.6,"May 17, 2026",Euro Semi Visualization,Driving Automation,MODIFIED,COORD_ACTIVE,BERT_AUTO
+TL_V069_F039,TL_V069,2026.14.6.6,"May 17, 2026",New 'All Apps' Icon,HMI/Multimedia/Telematics,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F040,TL_V069,2026.14.6.6,"May 17, 2026",Larger Dock Icons,Driving Automation,NEW,COORD_ACTIVE,BERT_AUTO
+TL_V069_F041,TL_V069,2026.14.6.6,"May 17, 2026",Animated Badges,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
+TL_V069_F042,TL_V069,2026.14.6.6,"May 17, 2026",New Creations Section,HMI/Multimedia/Telematics,NEW,STANDALONE,BERT_AUTO
